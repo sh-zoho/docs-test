@@ -21,4 +21,9 @@ API tokens expire after 30 minutes of inactivity. Refresh them using the refresh
 
 ## Security best practices
 
-Never expose your API key in client-side code or public repositories.
+Never expose your API key in client-side code
+
+## Multi-factor authentication
+
+Acme supports MFA via TOTP authenticator apps.
+Enable MFA in Settings → Security → Two-factor auth.
