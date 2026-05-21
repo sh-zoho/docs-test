@@ -1,0 +1,22 @@
+# Security
+
+## Data encryption
+
+All data transmitted to and from the Acme API is encrypted using TLS 1.3.
+Data at rest is encrypted using AES-256.
+
+## API key security
+
+- Rotate API keys every 90 days
+- Use separate keys for development, staging, and production
+- Never commit API keys to version control
+
+## IP allowlisting
+
+Enterprise accounts can restrict API access to specific IP addresses or CIDR ranges.
+Configure this in Settings → Security → IP Allowlist.
+
+## Compliance
+
+Acme is compliant with SOC 2 Type II, GDPR, and CCPA.
+Contact security@acme.com for compliance documentation.
