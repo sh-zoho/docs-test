@@ -6,6 +6,8 @@
 - New webhook event: payment.refunded
 - Improved rate limit error messages
 
+"This line was added for PR preview testing."
+
 ## v2.0.0 — April 2026
 
 - Breaking change: Authentication header format updated
