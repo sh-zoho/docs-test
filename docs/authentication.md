@@ -2,6 +2,8 @@
 
 Acme uses API keys to authenticate all requests. Your API key carries full access to your account.
 
+"This line tests commit message visibility."
+
 ## Obtaining your API key
 
 1. Log in to your Acme dashboard
