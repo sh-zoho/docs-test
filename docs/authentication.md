@@ -2,6 +2,8 @@
 
 Acme uses API keys to authenticate all requests. Your API key carries full access to your account.
 
+Atomic test line — authentication
+
 "This line tests commit message visibility."
 
 {% hint style="info" %}
