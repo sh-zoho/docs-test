@@ -25,3 +25,5 @@ kjz xcbvzxcvbzcvbkhjvbchvbhcv
 * Added pagination to all list endpoints
 * New SDK method: client.users.search()
 * Bug fix: Token refresh no longer requires re-authentication
+
+* "v3.0.0 — This line was pushed directly from GitHub to test TC-15."
