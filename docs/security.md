@@ -1,3 +1,8 @@
+---
+title: "Acme Security Guide — Custom SEO Title"
+description: "This is a custom meta description set via Git frontmatter for TC-25."
+---
+
 # Security
 
 ## Data encryption
