@@ -4,7 +4,19 @@ Acme uses API keys to authenticate all requests. Your API key carries full acces
 
 "This line tests commit message visibility."
 
+{% hint style="info" %}
+This is a hint block for testing
+{% endhint %}
+
 ## Obtaining your API key
+
+<details>
+
+<summary>Test</summary>
+
+"This is expandable content for testing."
+
+</details>
 
 1. Log in to your Acme dashboard
 2. Navigate to Settings → API Keys
@@ -15,7 +27,7 @@ Acme uses API keys to authenticate all requests. Your API key carries full acces
 
 Include your API key in every request using the Authorization header:
 
-Authorization: Bearer YOUR_API_KEY
+Authorization: Bearer YOUR\_API\_KEY
 
 ## Token expiry
 
@@ -27,5 +39,4 @@ Never expose your API key in client-side code
 
 ## Multi-factor authentication
 
-Acme supports MFA via TOTP authenticator apps.
-Enable MFA in Settings → Security → Two-factor auth.
+Acme supports MFA via TOTP authenticator apps. Enable MFA in Settings → Security → Two-factor auth.
