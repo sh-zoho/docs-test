@@ -14,6 +14,8 @@ ksdbfvjbsfkjhbjhbvbvjhbxfcv
 
 kjz xcbvzxcvbzcvbkhjvbchvbhcv
 
+"This line was added for PR preview testing."
+
 ## v2.0.0 — April 2026
 
 * Breaking change: Authentication header format updated
