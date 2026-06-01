@@ -2,6 +2,8 @@
 
 ## Data encryption
 
+"TC-24 cache test — timestamp noted" - 16:13
+
 All data transmitted to and from the Acme API is encrypted using TLS 1.3.
 Data at rest is encrypted using AES-256.
 
